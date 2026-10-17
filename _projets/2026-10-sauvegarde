@@ -1,0 +1,29 @@
+---
+title: "Mon site"
+date: 2026-10-07
+cadre: "Atelier professionel"
+resume: "Creation d'un site html ."
+competences: [c2]
+---
+
+## Contexte
+
+Pour notre atelier nous devions crée un site sous des conditions.
+
+## Conditions et moyens
+
+ Visual code, seul.
+
+## Description de l'activité
+
+1. Première étape, crée un dossier Mon site.
+2. Deuxième étape. crée des fichier html, css, js
+3. Troisième étape. codé le site a'laide de visual code
+
+## Productions et preuves
+
+![Resultat]({{ "/images/Monsite.png" | relative_url }})
+
+## Ce que j'en retiens
+
+Aucune difficulté rencontre.
